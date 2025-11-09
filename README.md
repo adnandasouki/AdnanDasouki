@@ -1,8 +1,6 @@
 ## Hi there 👋
-- 🔭 I’m currently working on mobile apps development using Flutter
-- 🌱 I’m currently learning how to use Firebase with Flutter
-- 🚀 Currently building: **UserTrack**, a notes app using Flutter & Firebase.
-- 📚 Learning about Firebase, back-end services for mbile apps
+- 🔭 I’m currently working on a Node.js project
+- 🌱 I’m currently learning JavaScript, Node.js, Express.js
 
 ### Teck Stack
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
