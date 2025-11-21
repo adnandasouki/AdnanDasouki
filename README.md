@@ -1,6 +1,6 @@
 ## Hi there 👋
-🟠 I’m currently working on backend development using Python
-🟢 I have a background in frontend development using Flutter
+- 🟠 I’m currently working on backend development using Python
+- 🟢 I have a background in frontend development using Flutter
 
 ### Tech Stack
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
