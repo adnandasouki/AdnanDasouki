@@ -20,13 +20,4 @@
 
 ## 💬 Contact
 
-<a href="mailto:mhd.adnan.dasouki@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-%23EA4335?style=flat&logo=gmail&logoColor=white
-">
-</a>
-<a href="https://www.linkedin.com/in/adnandasouki">
-<img src="https://img.shields.io/badge/LINKEDIN-%230D597F?style=flat&logoColor=white">
-</a>
-<a href="https://github.com/adnandasouki">
-<img src="https://img.shields.io/badge/GITHUB-%23181717?style=flat&logo=github&logoColor=white">
-</a>
+<a href="mailto:mhd.adnan.dasouki@gmail.com"><img src="https://img.shields.io/badge/GMAIL-%23EA4335?style=flat&logo=gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/adnandasouki"><img src="https://img.shields.io/badge/LINKEDIN-%230D597F?style=flat&logoColor=white"></a> <a href="https://github.com/adnandasouki"><img src="https://img.shields.io/badge/GITHUB-%23181717?style=flat&logo=github&logoColor=white"></a>
