@@ -1,7 +1,7 @@
 # Hi, I'm Adnan 👋
 
 <p align="center">
-<b>Software developer focused on building practical project, and continuous learning 🧑🏻‍💻</b>
+<b>Software developer focused on building practical projects, and continuous learning 🧑🏻‍💻</b>
 </p>
 
 ## 🛠️ Tech Stack
